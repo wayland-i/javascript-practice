@@ -17,3 +17,16 @@
 // console.log(arr)
 
 
+
+//type error
+
+let x = 'ian'
+
+let y = 1
+
+
+console.log(x.toUpperCase());
+
+console.log(y.toUpperCase())
+
+// console.log(z.length);
